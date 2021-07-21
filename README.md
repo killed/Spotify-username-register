@@ -4,7 +4,7 @@
 
 * Python3 is required [download](https://www.python.org/downloads/)
 * Requests is required [download](https://pypi.org/project/requests/)
-* Once downloaded you can just double click the python file and it'll prompt you with the inputs so fill them out and you'll be done.
+* Run script from cmd otherwise you won't know if it was successful or not.
 
 ## Preview
 
